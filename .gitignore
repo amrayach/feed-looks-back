@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.env.local
+.DS_Store
+logs/
+docs/capture-session.json
+docs/capture-cache.json
+.code-review-graph/
+coverage/
